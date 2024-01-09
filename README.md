@@ -1,7 +1,6 @@
 # Machine-Learning-Models
 ## Simple Linear Regression Model for Salary Prediction 
- # Overview  This repository contains a simple linear regression model implemented in Python using the scikit-learn library. The model predicts an employee's 
-  salary based on their years of experience. 
+ # Overview  This repository contains a simple linear regression model implemented in Python using the scikit-learn library. The model predicts an employee's salary based on their years of experience. 
  # Dataset  The model is trained on the 'Salary_Data.csv' dataset, which includes two columns: 'Years of Experience' and 'Salary'. The dataset is split into training and test sets using the `train_test_split` function from scikit-learn. 
  # Model  The linear regression model is implemented using the `LinearRegression` class from scikit-learn. The training process and model evaluation are visualized using matplotlib.  
  # Example Usage  ```python import numpy as np  
