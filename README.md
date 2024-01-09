@@ -8,4 +8,4 @@
  # Use the trained model to predict the salary for the new employee predicted_salary = regressor.predict(new_experience)  print(f"Predicted Salary for an employee with 7 years of experience: ${predicted_salary[0]:,.2f}") ``` 
  # Repository Structure  - `Salary_Data.csv`: Dataset used for training and testing. - `linear_regression_model.ipynb`: Jupyter Notebook containing the code for the linear regression model. - `README.md`: Documentation providing an overview, usage example, and other relevant information.  
  # Dependencies  - pandas - numpy - matplotlib - scikit-learn  
- ## Getting Started  # 1. Clone this repository. # 2. Install the required dependencies using `pip install -r requirements.txt`. # 3. Run the `linear_regression_model.ipynb` notebook.  Feel free to explore, contribute, and use this model for your own projects!  
+ ## Getting Started   1. Clone this repository.  2. Install the required dependencies using `pip install -r requirements.txt`.  3. Run the `linear_regression_model.ipynb` notebook.  Feel free to explore, contribute, and use this model for your own projects!  
